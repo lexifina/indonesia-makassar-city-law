@@ -1,0 +1,9 @@
+# Pasal 4
+(1) Pengenaan pajak didasarkan pada jumlah (tarif) pembayaran atau yang seharusnya dibayar oleh setiap pemakai jasa tempat parkir.
+(2) tarif jasa perparkiran sebagaimana dimaksud ayat (1) Pasal ini, diajukan oleh penyelenggara usaha perparkiran dan berlaku setelah mendapat persetujuan Walikota.
+(3) Pengajuan tarif jasa perparkiran sebagaimana dimaksud ayat (2) pasal ini, ditetapkan sekurang-kurangnya untuk Roda dua Rp. 500,- (lima ratus rupiah) dan setinggi-tingginya Rp. 1.000,- (seribu rupiah), dan untuk roda empat sekurang-kurangnya Rp. 1.000,- (seribu rupiah) dan setinggi-tingginya Rp. 2.000,- (dua ribu rupiah).
+(4) Bagi penyelenggara/pengelola perparkiran yang tidak memungut pembayaran baik berupa kartu langganan (member card) bulanan atau tahunan, ditetapkan dasar pengenaan tarif pajak sekurang-kurannya sebagaimana dimaksud ayat (3) pasal ini.
+(5) Penyelenggara atau pengelola, dapat mengajukan manajemen parkir tambahan (lewat waktu jam pertama) dengan tariff tidak melebihi 50 % (lima puluh persen) dari tarif pelayanan perparkiran satu jam pertama, dan atau langganan (mingguan, bulanan, tahunan), yang berlaku setelah mendapat persetujuan yang ditetapkan dengan Keputusan Walikota.
+(6) Pemilik Bangunan Rumah Toko, Kantor, dan atau yang sejenisnya yang memiliki aktifitas atau usaha yang dapat dikunjungi oleh banyak orang dan berpotensi menghambat lalulintas/kepentingan umum, namun tidak memiliki dan menyiapkan lahan perparkiran, maka kepada pemilik bangunan dan atau usaha tidak dapat mengajukan dispensasi atau insentif dan dikenakan pengenaan tarif setinggi-tingginya sebagaimana dimaksud pada ayat (3) dalam pasal ini.
+WALI KOTA MAKASSAR PROVINSI SULAWESI SELATAN
+(7) Pelaksanaan pengenaan pajak dimaksud pada ayat (6) pasal ini ditetapkan secara jabatan dengan memperlihatkan tingkat gangguan yang ditimbulkan.
