@@ -1,0 +1,4 @@
+# Pasal 5
+Retribusi Pelayanan Jasa Ketatausahaan digolongkan Retribusi Jasa Umum WALI KOTA MAKASSAR PROVINSI SULAWESI SELATAN
+BAB IV
+CARA PENGUKURAN TINGKAT PENGGUNAAN JASA
