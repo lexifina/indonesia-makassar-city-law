@@ -1,0 +1,4 @@
+# Pasal 20
+(1) Tenaga kependidikan bertugas melaksanakan administrasi, pengelolaan, pengembangan, pengawasan, dan pelayanan teknis untuk menunjang proses pendidikan pada satuan pendidikan;
+(2) Pendidik merupakan tenaga profesional yang bertugas merencanakan dan melaksanakan proses pembelajaran, menilai hasil pembelajaran, serta melakukan penelitian dan pengabdian kepada masyarakat (3) Pengelola satuan pendidikan terdiri atas kepala sekolah, wakil kepala sekolah, kepala bengkel, kepala instalasi, kepala bidang keahlian, kepala program keahlian, kepala program studi, wali kelas, kepala tata usaha, dan pegawai tata usaha serta pegawai lainnya yang bekerja di lingkungan Dinas Pendidikan;
+(4) Pengaturan pendidikan dan tenaga kependidikan sebagaimana dimaksud pasal ini, ditetapkan lebih lanjut dengan keputusan Walikota.
