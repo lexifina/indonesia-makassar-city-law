@@ -1,0 +1,3 @@
+# Pasal 23
+(1) Dalam menikmati pemanfaatan kawasan dan/atau pertambahan nilai kawasan sebagai akibat penataan ruang pelaksanaannya dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+(2) Untuk menikmati dan memanfaatkan kawasan beserta sumber daya alam yang terkandung didalamnya, menikmati manfaat kawasan sebagaimana dimaksud pada ayat (1)pasal ini yang dapat berupa manfaat ekonomi, sosial dan lingkungan dilaksanakan atas dasar pemilikan, penguasaan atau pemberian hak tertentu berdasarkan ketentuan peraturan perundang-undangan ataupun atas hukum adat dan kebiasaan yang berlaku atas ruang pada masyarakat setempat.

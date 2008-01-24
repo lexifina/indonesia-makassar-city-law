@@ -1,0 +1,5 @@
+# Pasal 19
+(1) Pelaksanaan pembangunan pelabuhan diupayakan dengan memanfaatkan kelandaian pesisir melalui usaha reklamasi pantai, dan sedapat mungkin menggunakan bahan urugan dari sekitar lokasi yang sekaligus mampu meningkatkan fungsi sistim saluran pembuangan air hujan (drainase) pada kawasan pelabuhan dan sekitarnya;
+(2) Kegiatan reklamasi pantai oleh pihak swasta, pemerintah, badan usaha milik negara maupun pihak lain, hanya dapat dilaksanakan setelah mendapatkan persetujuan dari Walikota;
+(3) Tanah hasil kegiatan reklamasi pantai yang dilaksanakan baik oleh pihak swasta, pemerintah, badan usaha milik negara maupun pihak lain yang peruntukannya untuk fasilitas umum, kepelabuhanan, kawasan industri, dan kawasan pengembangan ekonomi terpadu, hak pengelolaannya atas nama Pemerintah Kota;
+(4) Kepada pihak yang melaksanakan reklamasi pantai dapat diberikan kesempatan untuk mendapatkan hak di atas tanah hasil reklamasi dimaksud atas dasar rekomendasi Walikota yang telah mendapat peresetujuan dari DPRD.
