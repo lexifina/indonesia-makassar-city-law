@@ -1,0 +1,4 @@
+# Pasal 14
+(1) Penampungan sementara sebagaimana dimaksud pada Pasal 11 ayat (2) huruf c Peraturan Daerah ini dilakukan pembinaan yang dilakukan dengan sistem panti sosial pemerintah dalam waktu maksimal 10 hari, bekerja sama dengan Pemerintah Provinsi Sulawesi Selatan sebagai pemilik panti sosial pemerintah yang dimaksud;
+(2) Penampungan sementara sebagaimana dimaksud pada ayat (1) pasal ini dilakukan dalam rangka pembinaan yang meliputi bimbingan sosial, bimbingan mental spiritual, bimbingan hukum dan permainan adaptasi sosial ( outbound );
+(3) Selama dalam penampungan sementara sebagaimana dimaksud pada ayat (2) pasal ini, Dinas Sosial bersama unsur instansi terkait yang tergabung dalam tim pokja melindungi dan menjamin hak asasi anak yang bersangkutan, perlindungan anak dan tujuan pembinaan sesuai ketentuan perundang-undangan yang berlaku.
