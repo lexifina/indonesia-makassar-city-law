@@ -1,0 +1,10 @@
+# Pasal 32
+WALI KOTA MAKASSAR PROVINSI SULAWESI SELATAN
+(1) Bimbingan mental spiritual sebagaimana dimaksud pada Pasal 31 ayat (2) huruf a Peraturan Daerah ini dilakukan untuk menumbuhkan kesadaran, sikap dan perilaku bagi pengamen agar tidak melakukan aktivitas di jalanan;
+(2) Bimbingan sosial sebagaimana dimaksud pada Pasal 31 ayat (2) huruf b Peraturan Daerah ini sebagai upaya untuk memberikan motivasi kepada penerima pelayanan agar tidak melakukan aktivitas di jalanan;
+(3) Bimbingan hukum sebagaimana dimaksud pada Pasal 29 ayat (2) huruf c Peraturan Daerah ini dilakukan untuk menumbuhkan kesadaran hukum dan dapat mengetahui bahwa aktifitas mereka mengamen di jalanan, mengganggu ketertiban umum;
+(4) Pelatihan keterampilan dan kewirausahaan sebagaimana dimaksud pada Pasal 31 ayat (2) huruf d Peraturan Daerah ini dilakukan untuk memberi pengetahuan dan keterampilan sesuai kemampuan yang mereka miliki;
+(5) Bantuan stimulans sebagaimana dimaksud pada Pasal 31 ayat (2) huruf e Peraturan Daerah ini dilakukan untuk menumbuhkan keinginan berusaha agar dapat menciptakan kemandirian usaha sehingga dapat hidup secara layak;
+(6) Pendidikan non formal (Paket A,B,C) sebagaimana dimaksud pada Pasal 31 ayat (2) huruf f Peraturan Daerah ini dilakukan untuk memberikan kesempatan kepada pengamen yang putus sekolah dan masih memiliki keinginan untuk memperoleh pendidikan formal;
+(7) Pembinaan pola kemitraan usaha sebagaimana dimaksud pada Pasal 31 ayat (2) huruf g Peraturan Daerah ini dilakukan sebagai upaya untuk menciptakan kesempatan bagi stakeholder baik secara individu, kelompok, lembaga, perusahaan dan masyarakat untuk ikut berperan secara aktif dalam melaksanakan kegiatan pembinaan pengembangan kewirausahaan dan bakat seni yang dimiliki pengamen;
+(8) Pelatihan pengembangan bakat seni sebagaimana dimaksud pada Pasal 31 ayat (2) huruf h Peraturan Daerah ini sebagai proses untuk melatih dan mengembangkan bakat seni pengamen baik secara individu maupun kelompok dalam kegiatan klinik musik dan/atau pertunjukan yang dapat dijadikan sebagai kompetisi untuk menambah wawasan, kemampuan dan kualitas musik.
