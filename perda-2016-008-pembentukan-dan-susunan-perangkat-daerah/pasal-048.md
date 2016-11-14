@@ -1,0 +1,2 @@
+# Pasal 48
+Pada saat Peraturan Daerah ini mulai berlaku, maka Peraturan Daerah Kota Makassar Nomor 3 Tahun 2009 tentang Pembentukan dan Susunan Organisasi Perangkat Daerah Kota Makassar (Lembaran Daerah Kota Makassar Tahun 2009 Nomor 3), sebagaimana telah diubah beberapa kali terkahir dengan Peraturan Daerah Kota Makassar Nomor 7 Tahun 2013 tentang Perubahan Kedua atas Peraturan Daerah Kota Makassar Nomor 3 Tahun 2009 (Lembaran Daerah Kota Makassar Tahun 2013 Nomor 7), dicabut dan dinyatakan tidak berlaku.
