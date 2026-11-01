@@ -1,0 +1,51 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2001-041-pedoman-pembentukan-lembaga-pemberdayaan-masyarakat-dalam-daerah-kota",
+    "perda-2002-013-pajak-parkir",
+    "perda-2002-014-angkutan-jalan-dan-retribusi-perizinan-angkutan-dalam-wilayah-kota",
+    "perda-2002-015-retribusi-pengujian-kendaraan-bermotor-dalam-wilayahkota-makassar",
+    "perda-2003-006-izin-usaha-jasa-konstruksi",
+    "perda-2004-005-retribusi-pelayanan-jasa-ketatausahaan",
+    "perda-2005-001-kedudukan-protokoler-dan-keuangan-pimpinan-dan-anggota-dewan",
+    "perda-2006-002-pengaturan-perdagangan-barang-bekas-layak-pakai-yang-berasal-dari",
+    "perda-2006-003-penyelenggaraan-pendidikan-dengan-rakhmat-tuhan-yang-maha-esa",
+    "perda-2006-005",
+    "perda-2006-011-pendirian-perusahaan-daerah-air-minum-tinggkat-ii-ujung-pandang",
+    "perda-2006-014-perubahan-atas-peraturan-daerah-kota-ujung-pandang-nomor-16-tahun",
+    "perda-2006-015-pengelolaan-terminal-penumpang",
+    "perda-2008-002-pembinaan-anak-jalanan-gelandangan-pengemis-dan-pengamen-di-kota",
+    "perda-2009-003-pembentukan-dan-susunan-organisasi-perangkat-daerah-kota-makassar",
+    "perda-2009-008-pelayanan-pemakaman-dan-pengabuan-mayat-di-kota-makassar",
+    "perda-2009-009-penyelenggaraan-administrasi-kependudukan-dan-catatan-sipil-di-kota",
+    "perda-2009-015-perlindungan-pemberdayaan-pasar-tradisional-dan-penataan-pasar-modern",
+    "perda-2011-001-retribusi-pengendalian-menara-telekomunikasi",
+    "perda-2011-005-tanda-daftar-usaha-pariwisata",
+    "perda-2011-010-pengelolaan-rumah-kost",
+    "perda-2011-013-retribusi-jasa-usaha",
+    "perda-2012-001-pendidikan-baca-tulis-al-qur-an"
+   ],
+   "sha256": "f0b65a1ac2c3863ea4fcff6ed8120853cfca9b0708ea8fd8286da03f788203a6"
+  },
+  "20-perda-02.json": {
+   "acts": [
+    "perda-2015-002-pembentukan-kelurahan-minasa-upa-kelurahan-bonto-duri-kelurahan",
+    "perda-2015-003-pembentukan-kecamatan-kepulauan-sangkarrang",
+    "perda-2015-007-penyelenggaraan-bantuan-hukum",
+    "perda-2016-001-pengelolaan-air-limbah-domestik",
+    "perda-2016-006-penyertaan-modal-secara-non-kas-pemerintah-kota-makassar-kepada",
+    "perda-2016-007-perubahan-bentuk-badan-hukum-perusahaan-daerah-bank-perkreditan",
+    "perda-2016-008-pembentukan-dan-susunan-perangkat-daerah",
+    "perda-2016-009-perlindungan-dan-pengelolaan-lingkungan-hidup-bab-i-ketentuan-umum",
+    "perda-2017-001-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dewan-perwakilan",
+    "perda-2023-002-kerja-sama-daerah",
+    "perda-2023-007-bangunan-gedung",
+    "perda-2023-011-perlindungan-lahan-pertanian-pangan-berkelanjutan",
+    "perda-2026-002-penyelenggaraan-perhubungan"
+   ],
+   "sha256": "91d9b14bbb1b7eb1390ab1927c276a176c552a2629c81e33056234b961580799"
+  }
+ },
+ "schema": 1
+}
