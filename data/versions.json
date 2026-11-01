@@ -1,0 +1,509 @@
+{
+ "country": "ID-SN-MAKASSAR",
+ "acts": [
+  {
+   "slug": "perda-2001-041-pedoman-pembentukan-lembaga-pemberdayaan-masyarakat-dalam-daerah-kota",
+   "short": "Perda Makassar City 41/2001",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 41 TAHUN 2001 TENTANG PEDOMAN PEMBENTUKAN LEMBAGA PEMBERDAYAAN MASYARAKAT DALAM DAERAH KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/-peraturan-daerah-kota-makassar-nomor-41-tahun-2001-tentang-pedoman-pembentukan-lembaga-pemberdayaan-masyarakat-dalam-daerah-kota-makassar",
+   "versions": [
+    {
+     "from": "2001-10-13",
+     "units": 26,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2001/2001pd7327041.pdf",
+     "sha256": "e136321e68bdc905f98b809f1b62ee62c468c7f0aa58ae28b256ada71cbea12b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-013-pajak-parkir",
+   "short": "Perda Makassar City 13/2002",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 13 Tahun 2002 TENTANG PAJAK PARKIR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-13-tahun-2002-tentang-pajak-parkir",
+   "versions": [
+    {
+     "from": "2002-12-12",
+     "units": 46,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2002/2002pd7327013.pdf",
+     "sha256": "a85a439f04a43de3f4a1251c9b3bfafe2204e28caf5dcc5b3570d316a14d3d7d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-014-angkutan-jalan-dan-retribusi-perizinan-angkutan-dalam-wilayah-kota",
+   "short": "Perda Makassar City 14/2002",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 14 Tahun 2002 TENTANG ANGKUTAN JALAN DAN RETRIBUSI PERIZINAN ANGKUTAN DALAM WILAYAH KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-14-tahun-2002-tentang-angkutan-jalan-dan-retribusi-perizinan-angkutan-dalam-wilayah-kota-makassar",
+   "versions": [
+    {
+     "from": "2002-12-12",
+     "units": 73,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2002/2002pd7327014.pdf",
+     "sha256": "f8b48dda862b5f3d814d37ecc5602c54755b3ac9372892532fbad9251aaed104"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-015-retribusi-pengujian-kendaraan-bermotor-dalam-wilayahkota-makassar",
+   "short": "Perda Makassar City 15/2002",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 15 TAHUN 2002 TENTANG RETRIBUSI PENGUJIAN KENDARAAN BERMOTOR DALAM WILAYAHKOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-15-tahun-2002-tentang-retribusi-pengujian-kendaraan-bermotor-dalam-wilayah-kota-makassar",
+   "versions": [
+    {
+     "from": "2002-12-12",
+     "units": 4,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2002/2002pd7327015.pdf",
+     "sha256": "43af958302ae7dbd96acc73326ba44c75d2a9ba252e637917bca73626bb69535"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2003-006-izin-usaha-jasa-konstruksi",
+   "short": "Perda Makassar City 6/2003",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 6 Tahun 2003 TENTANG IZIN USAHA JASA KONSTRUKSI",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/Peraturan-Daerah-Kota-Makassar-Nomor-6-Tahun-2003-Tentang-Izin-Usaha-Jasa-Konstruksi",
+   "versions": [
+    {
+     "from": "2003-11-04",
+     "units": 46,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2003/2003pd7327006.pdf",
+     "sha256": "fc79f1de91efabd8011ac324d1112a977774d216371bf2c977866e9790edc79d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2004-005-retribusi-pelayanan-jasa-ketatausahaan",
+   "short": "Perda Makassar City 5/2004",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 5 TAHUN 2004 TENTANG RETRIBUSI PELAYANAN JASA KETATAUSAHAAN",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-5-tahun-2004-tentang-retribusi-pelayanan-jasa-ketatausahaan",
+   "versions": [
+    {
+     "from": "2004-07-28",
+     "units": 23,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2004/2004pd7327005.pdf",
+     "sha256": "5240f4bf027a51df22d732ec84b36a497919ddda6687d2979ec94d35f31e0b26"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2005-001-kedudukan-protokoler-dan-keuangan-pimpinan-dan-anggota-dewan",
+   "short": "Perda Makassar City 1/2005",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 1 Tahun 2005 TENTANG KEDUDUKAN PROTOKOLER DAN KEUANGAN PIMPINAN DAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-1-tahun-2005-tentang-kedudukan-protokoler-dan-keuangan-pimpinan-dan-anggota-dewan-perwakilan-rakyat-daerah-kota-makassar",
+   "versions": [
+    {
+     "from": "2005-03-29",
+     "units": 33,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2005/2005pd7327001.pdf",
+     "sha256": "abd85f3ae96046efb07a71889fdfd00559d94116619e003c0fdcafa6f4027a99"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-003-penyelenggaraan-pendidikan-dengan-rakhmat-tuhan-yang-maha-esa",
+   "short": "Perda Makassar City 3/2006",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 3 TAHUN 2006 TENTANG PENYELENGGARAAN PENDIDIKAN DENGAN RAKHMAT TUHAN YANG MAHA ESA WALIKOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/-peraturan-daerah-kota-makassar-nomor-3-tahun-2006-tentang-penyelenggaraan-pendidikan",
+   "versions": [
+    {
+     "from": "2006-07-20",
+     "units": 50,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2006/2006pd7327003.pdf",
+     "sha256": "08a23c8c1903a17d01c6225edf95370c5619f5609d7fdcccaa8bb32d7e3b0b9d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-005",
+   "short": "Perda Makassar City 5/2006",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 5 TAHUN 2006 T E N T A N G PENGELOLAAN ZAKAT DENGAN RAHMAT TUHAN YANG MAHA ESA WALIKOTA MAKASSAR, Menimbang : a. bahwa zakat merupakan salah satu ibadah yang bersifat mutlak bagi setiap orang Islam, maka dipandang perlu untuk ditegakkan dalam kehidupan sosial kemasyarakatan di Kota Makassar; b. bahwa Zakat merupakan sumber dan potensi ekonomi umat islam, maka",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-5-tahun-2006-tentang-pengelolaan-zakat-",
+   "versions": [
+    {
+     "from": "2006-08-28",
+     "units": 35,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2006/2006pd7327005.pdf",
+     "sha256": "236689d2b27f0f04e82262ecda5792381286a6a21aa5a62cba2584d8ffb3d8c7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-014-perubahan-atas-peraturan-daerah-kota-ujung-pandang-nomor-16-tahun",
+   "short": "Perda Makassar City 14/2006",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 14 TAHUN 2006 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KOTA UJUNG PANDANG NOMOR 16 TAHUN 1999 TENTANG PENDIRIAN PERUSAHAAN DAERAH TERMINAL MAKASSAR METRO KOTA UJUNG PANDANG",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-m-akassar-nomor-14-tahun-2006-tentang-perubahan-atas-peraturan-daerah-kota-ujung-pandang-nomor-16-tahun-1999-tentang-pendirian-perusahaan-daerah-terminal-makassar-metro-kota-ujung-pandang-",
+   "versions": [
+    {
+     "from": "2006-10-16",
+     "units": 5,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2006/2006pd7327014.pdf",
+     "sha256": "e81d26d9e8182b41e094bd3134e53279a7d00a108bc45237ba0a0362285cb0c4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-015-pengelolaan-terminal-penumpang",
+   "short": "Perda Makassar City 15/2006",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 15 TAHUN 2006 TENTANG PENGELOLAAN TERMINAL PENUMPANG",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-15-tahun-2006-tentang-pengelolaan-terminal-penumpang-",
+   "versions": [
+    {
+     "from": "2006-10-16",
+     "units": 21,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2006/2006pd7327015.pdf",
+     "sha256": "c15b5c7a25dc63e6421aad49e29cc33d0bc0f80e32e1c0998a552a42c5becb76"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-011-pendirian-perusahaan-daerah-air-minum-tinggkat-ii-ujung-pandang",
+   "short": "Perda Makassar City 11/2006",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 11 TAHUN 2006 T E N T A N G PERUBAHAN KEDUA PERATURAN DAERAH KOTAMADYA DAERAH TINGKAT II UJUNG PANDANG NOMOR 6 TAHUN 1974 TENTANG PENDIRIAN PERUSAHAAN DAERAH AIR MINUM TINGGKAT II UJUNG PANDANG",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/-peraturan-daerah-kota-makassar-nomor-11-tahun-2006-tentang-perubahan-kedua-peraturan-daerah-kotamadya-daerah-tingkat-ii-ujung-pandang-nomor-6-tahun-1974-tentang-pendirian-perusahaan-daerah-air-minum-tingkat-ii-ujung-pandang",
+   "versions": [
+    {
+     "from": "2006-10-18",
+     "units": 3,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2006/2006pd7327011.pdf",
+     "sha256": "199855bb566d88f2c8889da6d45ac6bed26fea6819979d908dde862b64b71ebc"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-002-pengaturan-perdagangan-barang-bekas-layak-pakai-yang-berasal-dari",
+   "short": "Perda Makassar City 2/2006",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 2 TAHUN 2006 TENTANG PENGATURAN PERDAGANGAN BARANG BEKAS LAYAK PAKAI YANG BERASAL DARI LUAR KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/-peraturan-daerah-kota-makassar-nomor-2-tahun-2006-tentang-pengaturan-perdagangan-barang-bekas-layak-pakai-yang-berasal-dari-luar-kota-makassar",
+   "versions": [
+    {
+     "from": "2008-01-24",
+     "units": 23,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2006/2006pd7327002.pdf",
+     "sha256": "8fb385393303205b5de998508cfcaac6f5d3feb66e16f4ecba11614586f56513"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2009-003-pembentukan-dan-susunan-organisasi-perangkat-daerah-kota-makassar",
+   "short": "Perda Makassar City 3/2009",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 3 TAHUN 2009 TENTANG PEMBENTUKAN DAN SUSUNAN ORGANISASI PERANGKAT DAERAH KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-3-tahun-2009-tentang-pembentukan-dan-susunan-organisasi-perangkat-daerah-kota-makassar",
+   "versions": [
+    {
+     "from": "2009-05-07",
+     "units": 58,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2009/2009pd7327003.pdf",
+     "sha256": "d069a3ed8ac5ed5a2f8df1bc5795c94e34ef30a5eee9e9054141bc8b5f72ea1a"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2008-002-pembinaan-anak-jalanan-gelandangan-pengemis-dan-pengamen-di-kota",
+   "short": "Perda Makassar City 2/2008",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR Nomor 2 Tahun 2008 TENTANG PEMBINAAN ANAK JALANAN, GELANDANGAN, PENGEMIS DAN PENGAMEN DI KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-2-tahun-2008-tentang-pembinaan-anak-jalanan-gelandangan-pengemis-dan-pengamen-di-kota-makassar",
+   "versions": [
+    {
+     "from": "2009-09-10",
+     "units": 63,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2008/2008pd7327002.pdf",
+     "sha256": "465981d44599ac02227853e373c219936dcdd00af238643c0471d7c4f88fcae7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2009-008-pelayanan-pemakaman-dan-pengabuan-mayat-di-kota-makassar",
+   "short": "Perda Makassar City 8/2009",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR: 8 TAHUN 2009 TENTANG PELAYANAN PEMAKAMAN DAN PENGABUAN MAYAT DI KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-8-tahun-2009-tentang-pelayanan-pemakaman-dan-pengabuan-mayat-di-kota-makassar",
+   "versions": [
+    {
+     "from": "2009-09-10",
+     "units": 22,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2009/2009pd7327008.pdf",
+     "sha256": "7bf9c310b3cd1f9fcea337f150540f52c70e3106e913bf3a17e0193659f6921c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2009-009-penyelenggaraan-administrasi-kependudukan-dan-catatan-sipil-di-kota",
+   "short": "Perda Makassar City 9/2009",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR Nomor : 9 Tahun 2009 TENTANG PENYELENGGARAAN ADMINISTRASI KEPENDUDUKAN DAN CATATAN SIPIL DI KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/-peraturan-daerah-kota-makassar-nomor-9-tahun-2009-tentang-penyelenggaraan-administrasi-kependudukan-dan-catatan-sipil-di-kota-makassar",
+   "versions": [
+    {
+     "from": "2009-09-10",
+     "units": 56,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2009/2009pd7327009.pdf",
+     "sha256": "392dbe028fb77b7e0eded5fa65664f16cb4b940f0b2a4a3f99df8a3ad67cf8a8"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2009-015-perlindungan-pemberdayaan-pasar-tradisional-dan-penataan-pasar-modern",
+   "short": "Perda Makassar City 15/2009",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR : 15 Tahun 2009 TENTANG PERLINDUNGAN, PEMBERDAYAAN PASAR TRADISIONAL DAN PENATAAN PASAR MODERN DI KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/-peraturan-daerah-kota-makassar-nomor-15-tahun-2009-tentang-perlindungan-pemberdayaan-pasar-tradisional-dan-penataan-pasar-modern-di-kota-makassar",
+   "versions": [
+    {
+     "from": "2009-09-14",
+     "units": 32,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2009/2009pd7327015.pdf",
+     "sha256": "2c872a18ee7d402f8cef0c1f76614a6823bb1bbfdfca550182192278e6b980da"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-001-retribusi-pengendalian-menara-telekomunikasi",
+   "short": "Perda Makassar City 1/2011",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 1 TAHUN 2011 TENTANG RETRIBUSI PENGENDALIAN MENARA TELEKOMUNIKASI",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-1-tahun-2011-tentang-retribusi-pengendalian-menara-telekomunikasi",
+   "versions": [
+    {
+     "from": "2011-05-09",
+     "units": 34,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2011/2011pd7327001.pdf",
+     "sha256": "679a3bb2dd5b61f8a8bf5f16ef5b88fddfe211b75b5ff81eeb8f7222563e28a9"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-005-tanda-daftar-usaha-pariwisata",
+   "short": "Perda Makassar City 5/2011",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 5 TAHUN 2011 TENTANG TANDA DAFTAR USAHA PARIWISATA",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-5-tahun-2011-tentang-tanda-daftar-usaha-pariwisata",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 43,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2011/2011pd7327005.pdf",
+     "sha256": "ddf194dc1a224cfad3032126c64e00938c30b1a3551979ac56668f5d8f446198"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-010-pengelolaan-rumah-kost",
+   "short": "Perda Makassar City 10/2011",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 10 TAHUN 2011 TENTANG PENGELOLAAN RUMAH KOST",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-10-tahun-2011-tentang-pengelolaan-rumah-kost",
+   "versions": [
+    {
+     "from": "2011-12-30",
+     "units": 21,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2011/2011pd7327010.pdf",
+     "sha256": "3e40ceb9d35cba6ca65613464b4ea6c79ffa5f45780eea22a48558b457cd50b6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2011-013-retribusi-jasa-usaha",
+   "short": "Perda Makassar City 13/2011",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 13 TAHUN 2011 TENTANG RETRIBUSI JASA USAHA",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/Peraturan-Daerah-Kota-Makassar-Nomor-13-Tahun-2011-Tentang-Retribusi-Jasa-Usaha",
+   "versions": [
+    {
+     "from": "2012-02-21",
+     "units": 50,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2011/2011pd7327013.pdf",
+     "sha256": "af1ecd0eea9489f18a173c24bc79e1eac3b478329e7a42088bc550c6f33500fd"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2012-001-pendidikan-baca-tulis-al-qur-an",
+   "short": "Perda Makassar City 1/2012",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 1 TAHUN 2012 TENTANG PENDIDIKAN BACA-TULIS Al-QUR'AN",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/Peraturan-Daerah-Kota-Makassar-Nomor-1-Tahun-2012-Tentang-Pendidikan-Baca-Tulis-Al-Quran",
+   "versions": [
+    {
+     "from": "2012-05-03",
+     "units": 21,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2012/2012pd7327001.pdf",
+     "sha256": "a68da99debc5a8b361ca47a0887dab1cbcdf22c192bc2638762577bea0c96d7c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-002-pembentukan-kelurahan-minasa-upa-kelurahan-bonto-duri-kelurahan",
+   "short": "Perda Makassar City 2/2015",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 2 TAHUN 2015 TENTANG PEMBENTUKAN KELURAHAN MINASA UPA, KELURAHAN BONTO DURI, KELURAHAN BIRING ROMANG, KELURAHAN BITOWA, KELURAHAN LAIKANG, KELURAHAN BERUA, KELURAHAN KATIMBANG, KELURAHAN BAKUNG, KELURAHAN BUNTUSU, KELURAHAN KAPASA RAYA",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-2-tahun-2015-tentang-pembentukan-kelurahan-minasa-upa-kelurahan-bonto-duri-kelurahan-biring-romang-kelurahan-bitowa-kelurahan-laikang-kelurahan-berua-kelurahan-katimbang-kelurahan-bakung-kelurahan-buntusu-kelurahan-kapasa-raya",
+   "versions": [
+    {
+     "from": "2015-09-10",
+     "units": 12,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2015/2015pd7327002.pdf",
+     "sha256": "735787f1c1e69731a40e16e506a7efffc2b1a72ffe0e1f6c7a48e26336876cac"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-003-pembentukan-kecamatan-kepulauan-sangkarrang",
+   "short": "Perda Makassar City 3/2015",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 3 TAHUN 2015 TENTANG PEMBENTUKAN KECAMATAN KEPULAUAN SANGKARRANG",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-3-tahun-2015-tentang-pembentukan-kecamatan-kepulauan-sangkarrang",
+   "versions": [
+    {
+     "from": "2015-09-10",
+     "units": 13,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2015/2015pd7327003.pdf",
+     "sha256": "44e361e4933c5172659b33c8b6fc6ffa256222c8d613c6e584cfa4a3c94f2f49"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-007-penyelenggaraan-bantuan-hukum",
+   "short": "Perda Makassar City 7/2015",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR Nomor 7 Tahun 2015 TENTANG PENYELENGGARAAN BANTUAN HUKUM",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-7-tahun-2015-tentang-penyelenggaraan-bantuan-hukum",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 30,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2015/2015pd7327007.pdf",
+     "sha256": "07732ca2ae15c8b8a57def237cbf03563b3794c1d8b9cd81b992300445656484"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-001-pengelolaan-air-limbah-domestik",
+   "short": "Perda Makassar City 1/2016",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 1 TAHUN 2016 TENTANG PENGELOLAAN AIR LIMBAH DOMESTIK",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-1-tahun-2016-tentang-pengelolaan-air-limbah-domestik",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 43,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2016/2016pd7327001.pdf",
+     "sha256": "13e090d3dcc36f3359e6c7221acd6af323c8bafad936919aa3b93e8f30673bbf"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-006-penyertaan-modal-secara-non-kas-pemerintah-kota-makassar-kepada",
+   "short": "Perda Makassar City 6/2016",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 6 TAHUN 2016 TENTANG PENYERTAAN MODAL SECARA NON KAS PEMERINTAH KOTA MAKASSAR KEPADA PERUSAHAAN DAERAH AIR MINUM KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-6-tahun-2016-tentang-penyertaan-modal-secara-non-kas-pemerintah-kota-makassar-kepada-perusahaan-daerah-air-minum-kota-makassar",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 8,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2016/2016pd7327006.pdf",
+     "sha256": "02c6f253de06c3a40c8348db606bb29d3ca3cc0c2e1e480d9ebc9613cd11f33f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-007-perubahan-bentuk-badan-hukum-perusahaan-daerah-bank-perkreditan",
+   "short": "Perda Makassar City 7/2016",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 7 TAHUN 2016 TENTANG PERUBAHAN BENTUK BADAN HUKUM PERUSAHAAN DAERAH BANK PERKREDITAN RAKYAT KOTA MAKASSAR MENJADI PERUSAHAAN PERSEROAN TERBATAS BANK PERKREDITAN RAKYAT KOTA MAKASSAR",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-7-tahun-2016-tentang-perubahan-bentuk-badan-hukum-perusahaan-daerah-bank-perkreditan-rakyat-kota-makassar-menjadi-perusahaan-perseroan-terbatas-bank-perkreditan-rakyat-kota-makassar",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 32,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2016/2016pd7327007.pdf",
+     "sha256": "7ca2c4dc3ac72432e53eefd432d9373139c2b05954f92ce2f92a6c8896a80ea4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-008-pembentukan-dan-susunan-perangkat-daerah",
+   "short": "Perda Makassar City 8/2016",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 8 TAHUN 2016 TENTANG PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/-peraturan-daerah-kota-makassar-nomor-8-tahun-2016-tentang-pembentukan-dan-susunan-perangkat-daerah",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 51,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2016/2016pd7327008.pdf",
+     "sha256": "710576205abc5bcf4dd44738df511355ec9d6cf5fa377b1c7beb899835a4cc7d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-009-perlindungan-dan-pengelolaan-lingkungan-hidup-bab-i-ketentuan-umum",
+   "short": "Perda Makassar City 9/2016",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR TENTANG PERLINDUNGAN DAN PENGELOLAAN LINGKUNGAN HIDUP. BAB I KETENTUAN UMUM",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-9-tahun-2016-tentang-perlindungan-dan-pengelolaan-lingkungan-hidup",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 126,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2016/2016pd7327009.pdf",
+     "sha256": "c73a9364e282845977d515ce3c354b7e2578b4515b6cd9f8d2dae568fc8ed047"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2017-001-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dewan-perwakilan",
+   "short": "Perda Makassar City 1/2017",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 1 TAHUN 2017 TENTANG HAK KEUANGAN DAN ADMINISTRATIF PIMPINAN DAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-1-tahun-2017-tentang-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dewan-perwakilan-rakyat-daerah",
+   "versions": [
+    {
+     "from": "2017-08-25",
+     "units": 35,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2017/2017pd7327001.pdf",
+     "sha256": "33cb4fea33b26e8f30797a18dd0cacb8726c0a17c9d85c7719f55d16530286df"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-002-kerja-sama-daerah",
+   "short": "Perda Makassar City 2/2023",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 2 TAHUN 2023 TENTANG KERJA SAMA DAERAH",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-2-tahun-2023-tentang-kerja-sama-daerah",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 56,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2023/2023pd7327002.pdf",
+     "sha256": "f4c5964001f0bd8ef68678b407dd527c01d855197b68f9318ec8c517154daffb"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-007-bangunan-gedung",
+   "short": "Perda Makassar City 7/2023",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 7 TAHUN 2023 TENTANG BANGUNAN GEDUNG",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-7-tahun-2023-tentang-bangunan-gedung",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 68,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2023/2023pd7327007.pdf",
+     "sha256": "d29325e9c778d74ce2a1885df8ac043fc7a3290419b159c966db7abf259f1a8b"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-011-perlindungan-lahan-pertanian-pangan-berkelanjutan",
+   "short": "Perda Makassar City 11/2023",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 11 TAHUN 2023 TENTANG PERLINDUNGAN LAHAN PERTANIAN PANGAN BERKELANJUTAN",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-11-tahun-2023-tentang-perlindungan-lahan-pertanian-pangan-berkelanjutan",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 55,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2023/2023pd7327011.pdf",
+     "sha256": "97433bdff107c12b73070eca1122f513c9d7f0eb749bbe677c91c1240f6ba6a9"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-002-penyelenggaraan-perhubungan",
+   "short": "Perda Makassar City 2/2026",
+   "title": "PERATURAN DAERAH KOTA MAKASSAR NOMOR 2 TAHUN 2026 TENTANG PENYELENGGARAAN PERHUBUNGAN",
+   "url": "https://jdih.makassarkota.go.id/produk-hukum/peraturan/detail/peraturan-daerah-kota-makassar-nomor-2-tahun-2026-tentang-penyelenggaraan-perhubungan",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 124,
+     "source_url": "https://jdih.makassarkota.go.id/dokumen/download/peraturan/2026/2026PD73272.pdf",
+     "sha256": "a4bff7d401fdaf9b27185e9f88583a141fb43d1c91b694140759fa807f0370ed"
+    }
+   ]
+  }
+ ]
+}

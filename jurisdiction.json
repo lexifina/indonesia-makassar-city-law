@@ -1,0 +1,9 @@
+{
+  "path": "id-sn-makassar",
+  "code": "ID-SN-MAKASSAR",
+  "name": "Makassar City (Indonesia)",
+  "level": "municipality",
+  "parent": "id-sn",
+  "repo": "https://github.com/lexifina/indonesia-makassar-city-law",
+  "build": "built: Peraturan Daerah (Perda) of Kota Makassar as enacted, Indonesian text, from JDIH Kota Makassar (Bagian Hukum Sekretariat Daerah Kota Makassar)"
+}
